@@ -18,3 +18,5 @@ Dynamic Dashboard & Interactive Visuals
 
 🔗 Excited to keep building real-world data stories!
 #Excel #DataAnalysis #RetailAnalytics #Dashboard #LearningByDoing
+
+![Sales Dashboard](./assets/sales_dashboard.png)
